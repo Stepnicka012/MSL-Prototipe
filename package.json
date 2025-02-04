@@ -1,0 +1,20 @@
+{
+  "name": "minecraft-server-launcher-prototipe",
+  "version": "1.0.20",
+  "description": "MineraftServer Launcher Prototipe",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "server"
+  ],
+  "devDependencies": {
+    "electron": "34.0.2",
+    "standard": "17.1.2"
+  },
+  "author": "Stepnicka Studios",
+  "license": "Apache-2.0"
+}
